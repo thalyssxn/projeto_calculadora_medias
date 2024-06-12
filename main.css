@@ -1,8 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Roboto Slab", serif ;
+    font-family: "Roboto Slab", serif;
 }
 
 body {
@@ -17,7 +17,7 @@ header {
 }
 
 header img {
-    height: 36px;  
+    height: 36px;
     margin-right: 16px;
 }
 
@@ -35,12 +35,12 @@ header h1 {
 form {
     display: flex;
     max-width: 640px;
-    width: 100% ;
+    width: 100%;
     justify-content: space-between;
     margin-bottom: 56px;
 }
 
-form input{
+form input {
     font-size: 24px;
     background-color: #fff;
     border: none;
@@ -58,7 +58,7 @@ form button {
     padding: 8px;
 }
 
-table{
+table {
     width: 100%;
 }
 
@@ -69,14 +69,14 @@ table th {
     font-weight: bold;
 }
 
-table td{
+table td {
     padding: 17px 0;
     text-align: center;
     font-size: 18px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-table td img{
+table td img {
     width: 50px;
 }
 
@@ -88,10 +88,10 @@ table td img{
     border-radius: 3px;
 }
 
-.aprovado{
+.aprovado {
     background-color: #009432;
 }
 
-.reprovado{
+.reprovado {
     background-color: #940000;
 }
